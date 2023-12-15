@@ -1,0 +1,44 @@
+[
+
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "brand": "string",
+    "colorway": "Orange",
+    "gender": "Female",
+
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 2000,
+    "styleId": "123",
+    "shoe": "sneakers",
+    "name": "Nike Air",
+    "title": "shoe",
+    "year": 2021
+  },
+
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 1000,
+    "styleId": "456",
+    "shoe": "Puma",
+    "name": "Liberty",
+    "title": "Shoe",
+    "year": 0
+  }
+
+
+
+]
